@@ -1,0 +1,69 @@
+[[GAP_pkg_crypting]]
+arch = "aarch64"
+git-tree-sha1 = "9fbaf0b928dbb9fc99dfda0f728ca6d829b7ddca"
+os = "macos"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "86a8ac9cf2d621b3713cd842cd264efe12b5047c5c15d6930928d6182298ad96"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v0.1000.401+0/GAP_pkg_crypting.v0.1000.401.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "aarch64"
+git-tree-sha1 = "eeb757354ff7150181aa9f6f9138853269d72996"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "048d714e32ff058486548e39b53593e3ea4c1e8f61c187c3a596b791663bc4d7"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v0.1000.401+0/GAP_pkg_crypting.v0.1000.401.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "aarch64"
+git-tree-sha1 = "7b78c9fdba54b04b8b2fff4b888a1b32031e2209"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "6388833c01ad59f0609faad2566fbb53f7d5d69d8ebf41d46956dae944dd40b4"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v0.1000.401+0/GAP_pkg_crypting.v0.1000.401.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "powerpc64le"
+git-tree-sha1 = "1b025dbd320492782eb802ca1249504b6595b10d"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "de8fdeb76dca4ff101b89e1c733f7641962e5a1f4e8f11ce3e50d84c0996cf69"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v0.1000.401+0/GAP_pkg_crypting.v0.1000.401.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "x86_64"
+git-tree-sha1 = "abc2a6a4741658e2abc3f052b914a45daf5a9181"
+os = "macos"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "575bb4f233eba66c620dc69b56e7851f991e9270347bad32a32e64d9fea97311"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v0.1000.401+0/GAP_pkg_crypting.v0.1000.401.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "x86_64"
+git-tree-sha1 = "c06bd5bc855eb61f0fd801b74b3d90b96f87cdb4"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "e0ac00d51eafcc0c4979a989f59c093534b87fec76d6dc1e17ddfabc7c8a0a06"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v0.1000.401+0/GAP_pkg_crypting.v0.1000.401.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "x86_64"
+git-tree-sha1 = "059fa082072b1feff7b4962afd8a762ee6a7e4cc"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "787470413a7bc44c03202eeabff8fc53e1831a1197e9e378f7bdb0c1257cee65"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v0.1000.401+0/GAP_pkg_crypting.v0.1000.401.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_crypting]]
+arch = "x86_64"
+git-tree-sha1 = "0213828897c46ecfc42d4bdbd7b0e00c0129c134"
+os = "freebsd"
+
+    [[GAP_pkg_crypting.download]]
+    sha256 = "5f25c5e69b9348542cb6f5ac5b6e771ddd07536ccf8e314c8c2acb26ce167c2c"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_crypting_jll.jl/releases/download/GAP_pkg_crypting-v0.1000.401+0/GAP_pkg_crypting.v0.1000.401.x86_64-unknown-freebsd.tar.gz"
