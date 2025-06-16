@@ -2,11 +2,10 @@
 export crypting
 
 using GAP_jll
-using GAP_lib_jll
 JLLWrappers.@generate_wrapper_header("GAP_pkg_crypting")
 JLLWrappers.@declare_file_product(crypting)
 function __init__()
-    JLLWrappers.@generate_init_header(GAP_jll, GAP_lib_jll)
+    JLLWrappers.@generate_init_header(GAP_jll)
     JLLWrappers.@init_file_product(
         crypting,
         "lib/gap/crypting.so",
